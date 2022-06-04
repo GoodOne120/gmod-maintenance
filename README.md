@@ -1,5 +1,5 @@
 # gmod-maintenance
-Simple Garry's mod script that manages server maintenance
+Simple Garry's mod script that manages server maintenance.
 # Prerequisites
 * [Garry's Mod Server](https://wiki.facepunch.com/gmod/Downloading_a_Dedicated_Server)
 # Installation & Usage
